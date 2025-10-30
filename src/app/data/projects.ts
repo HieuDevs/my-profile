@@ -137,7 +137,7 @@ export const projects: Project[] = [
     subtitle: "English speaking coach",
     description:
       "AI‑assisted English practice with conversation drills, pronunciation feedback, and adaptive lesson paths.",
-    tags: ["Flutter", "GenAI", "Edge"],
+    tags: ["Flutter", "Go", "Next.js", "GenAI", "Realtime", "WebSockets", "CI/CD", "Docker", "Cloud"],
     imageSrc: "/thepocket.jpg",
     imageAlt: "The Pocket app thumbnail",
     links: {
